@@ -1,0 +1,29 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>D:\Atmel Studio 7\Projects\Assignments\DA_2A\T1\T1\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>D:/Atmel Studio 7\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc</DIR>
+  <DIR>D:\Atmel Studio 7\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\Atmel Studio 7\Projects\Assignments\DA_2A\T1\T1\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>D:/Atmel Studio 7\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\Atmel Studio 7\Projects\Assignments\DA_2A\T1\T1\Debug\T1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>T1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>T1.map</FILE>
+  <FILE>T1.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <START><FILE>D:\Atmel Studio 7\Projects\Assignments\DA_2A\T1\T1\main.asm</FILE><LINE>9</LINE></START>
+  <L1><FILE>D:\Atmel Studio 7\Projects\Assignments\DA_2A\T1\T1\main.asm</FILE><LINE>14</LINE></L1>
+  <L2><FILE>D:\Atmel Studio 7\Projects\Assignments\DA_2A\T1\T1\main.asm</FILE><LINE>27</LINE></L2>
+ </LABELS>
+</ASSEMBLER_INFO>
